@@ -1,3 +1,5 @@
-bonjour à tous
-je ne sais pas quoi écrire
-cadavre exquis 
+Bonjour à tous.
+Je ne sais pas quoi écrire.
+Cadavre exquis.
+
+.
