@@ -1,3 +1,3 @@
-j ai enfin reussi
-c est bon
-c etait long
+J'ai enfin reussi.
+C'est bon.
+C'était long.
