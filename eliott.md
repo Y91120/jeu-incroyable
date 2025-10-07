@@ -1,5 +1,5 @@
-c'est fou
+C'est fou.
 
-emploi du temps pourri
+Emploi du temps pourri.
 
-l'ensae incroyable
+L'ensae incroyable.
